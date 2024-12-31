@@ -6,5 +6,7 @@ My research interests are mainly in High-Performance Computing and AI4sys.
 
 I like soccer and basketball, my favorite soccer team is LIVERPOOL FC, and my favorite basketball team is GSW.
 
+Please contact me if you are interested in my research, [yihe6@uic.edu](mailto:yihe6@uic.edu).
+
 
 
