@@ -1,4 +1,3 @@
-
 # 📖 Educations
 - *2025.01 - current*, PhD,  Computer Science, University of Illinois at Chicago.
 - *2023.09 - 2024.12*, MEng, Electrical and Computer Engineering, University of Illinois at Urbana-Champaign.

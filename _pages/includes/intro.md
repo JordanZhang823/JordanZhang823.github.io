@@ -4,3 +4,5 @@ Previously, I obtained my Master's degree at University of Illinois at Urbana-Ch
 
 My research interests are mainly in High-Performance Computing and AI4sys.
 
+I like soccer and basketball, my favorite soccer team is LIVERPOOL FC, and the basketball team is GSW.
+

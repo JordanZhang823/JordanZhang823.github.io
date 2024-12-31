@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yihe (Jordan) Zhang"
+title                    : "Yihe Zhang"
 description              : "CS PhD student at University of Illinois at Chicago. Focusing on HPC and AI4sys."
 repository               : "https://github.com/JordanZhang823"
 google_scholar_stats_use_cdn : false
@@ -21,14 +21,14 @@ baidu_site_verification  : code-ZxFK3f4pfb
 
 # Site Author
 author:
-  name             : "Yihe (Jordan) Zhang"
+  name             : "Yihe Zhang"
   avatar           : "images/profile.jpg"
   bio              : "CS PhD at UIC"
   location         : "Chicago, Illinois, United States"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "yihe6@uic.edu"
+  Email            : "yihe6@uic.edu" 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
