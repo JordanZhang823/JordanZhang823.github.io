@@ -90,31 +90,3 @@
     }
   }
 }
-
-.visitor-map {
-  clear: both;
-  max-width: $large;
-  margin: 3em auto 2em;
-  padding: 1.25em 1em 0;
-  text-align: center;
-  border-top: 1px solid $border-color;
-
-  h2 {
-    margin-top: 0;
-    margin-bottom: 0.85em;
-    font-family: $sans-serif;
-    font-size: $type-size-5;
-    color: $gray;
-  }
-}
-
-.visitor-map__widget {
-  display: inline-block;
-  max-width: 100%;
-
-  img,
-  canvas,
-  iframe {
-    max-width: 100%;
-  }
-}

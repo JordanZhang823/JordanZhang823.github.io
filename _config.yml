@@ -10,8 +10,6 @@ title                    : "Yihe (Jordan) Zhang | PhD Student at UIC"
 description              : "Yihe (Jordan) Zhang is a CS PhD student at the University of Illinois at Chicago researching HPC systems, job scheduling, resource management, and large-scale LLM inference services."
 repository               : "https://github.com/YiheJordanZhang"
 google_scholar_stats_use_cdn : false
-# MapMyVisitors widget `d=` value for the visitor map.
-mapmyvisitors_id         : "IMj5QOauaOh3itXiv54K4YbC6WTpio8QQs1f5DGrnzo"
 
 # # google analytics
 # google_analytics_id      : G-SWFCX99KQZ
