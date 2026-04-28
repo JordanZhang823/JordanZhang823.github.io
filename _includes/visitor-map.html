@@ -1,0 +1,7 @@
+{% if site.mapmyvisitors_id %}
+<aside class="visitor-map" aria-label="Visitor map">
+  <div class="visitor-map__widget">
+    <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d={{ site.mapmyvisitors_id }}&cl=ffffff&w=a"></script>
+  </div>
+</aside>
+{% endif %}

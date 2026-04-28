@@ -90,3 +90,25 @@
     }
   }
 }
+
+.visitor-map {
+  clear: both;
+  max-width: $large;
+  margin: 2.5em auto 1.5em;
+  padding: 0 1em;
+  text-align: left;
+}
+
+.visitor-map__widget {
+  width: 100%;
+  max-width: 640px;
+  overflow: hidden;
+
+  img,
+  canvas,
+  iframe,
+  object {
+    display: block;
+    max-width: 100%;
+  }
+}
