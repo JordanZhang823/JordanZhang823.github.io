@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yihe Zhang"
-description              : "HPC & AI4sys."
+title                    : "Yihe (Jordan) Zhang | PhD Student at UIC"
+description              : "Yihe (Jordan) Zhang is a CS PhD student at the University of Illinois at Chicago researching HPC systems, job scheduling, resource management, and large-scale LLM inference services."
 repository               : "https://github.com/YiheJordanZhang"
 google_scholar_stats_use_cdn : false
 
