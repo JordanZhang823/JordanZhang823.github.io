@@ -6,4 +6,4 @@
 
 - **[Ranking Before Serving: Low-Latency LLM Serving via Pairwise Learning-to-Rank](https://ieeexplore.ieee.org/abstract/document/11520485)**  
   Y. Tao, Y. Zhang, M. T. Dearing, X. Wang, Y. Fan, and Z. Lan.  
-  *Accepted to ISC*, 2026.
+  *ISC 26'*.
